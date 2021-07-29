@@ -12,8 +12,8 @@
 |<ul><li>- [x] Done</li></ul>|5|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|6|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|7|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|8|[Cookies](http://codeforces.com/problemset/problem/129/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|9|[Candy Bags](http://codeforces.com/problemset/problem/334/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|8|[Cookies](http://codeforces.com/problemset/problem/129/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|9|[Candy Bags](http://codeforces.com/problemset/problem/334/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|10|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|11|[Vasily the Bear and Triangle](http://codeforces.com/problemset/problem/336/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|12|[Lunch Rush](http://codeforces.com/problemset/problem/276/A)|Codeforces|1|
@@ -30,7 +30,7 @@
 |<ul><li>- [x] Done</li></ul>|23|[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|24|[Slightly Decreasing Permutations](http://codeforces.com/problemset/problem/285/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|25|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|26|[Fancy Fence](http://codeforces.com/problemset/problem/270/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|26|[Fancy Fence](http://codeforces.com/problemset/problem/270/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|27|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|28|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|29|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
