@@ -35,7 +35,7 @@
 |<ul><li>- [x] Done</li></ul>|28|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|29|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|30|[Wizards and Demonstration](http://codeforces.com/problemset/problem/168/A)|Codeforces|2|
-|<ul><li>- [-] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|32|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|33|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|34|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
