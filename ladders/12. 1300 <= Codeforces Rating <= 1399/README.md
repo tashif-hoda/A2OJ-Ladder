@@ -38,8 +38,8 @@
 |<ul><li>- [x] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|32|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|33|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|34|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|35|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|34|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|35|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|36|[Magic Numbers](http://codeforces.com/problemset/problem/320/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|37|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|38|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces|2|
