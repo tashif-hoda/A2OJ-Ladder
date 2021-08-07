@@ -50,7 +50,7 @@
 |<ul><li>- [x] Done</li></ul>|43|[Next Test](http://codeforces.com/problemset/problem/27/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|44|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|45|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|46|[Lucky Sum](http://codeforces.com/problemset/problem/121/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|46|[Lucky Sum](http://codeforces.com/problemset/problem/121/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|47|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|48|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|49|[The Fibonacci Segment](http://codeforces.com/problemset/problem/365/B)|Codeforces|3|
