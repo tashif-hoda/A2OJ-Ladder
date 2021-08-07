@@ -46,7 +46,7 @@
 |<ul><li>- [x] Done</li></ul>|39|[Array](http://codeforces.com/problemset/problem/300/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|40|[Sum of Digits](http://codeforces.com/problemset/problem/102/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|41|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|42|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|42|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|43|[Next Test](http://codeforces.com/problemset/problem/27/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|44|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|45|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
