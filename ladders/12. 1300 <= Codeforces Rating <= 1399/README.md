@@ -52,8 +52,8 @@
 |<ul><li>- [x] Done</li></ul>|45|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|46|[Lucky Sum](http://codeforces.com/problemset/problem/121/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|47|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|48|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|49|[The Fibonacci Segment](http://codeforces.com/problemset/problem/365/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|48|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|49|[The Fibonacci Segment](http://codeforces.com/problemset/problem/365/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|50|[Difference Row](http://codeforces.com/problemset/problem/347/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|51|[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|52|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
@@ -81,7 +81,7 @@
 |<ul><li>- [ ] Done</li></ul>|74|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|75|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|76|[Ilya and Queries](http://codeforces.com/problemset/problem/313/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|77|[Little Dima and Equation](http://codeforces.com/problemset/problem/460/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|77|[Little Dima and Equation](http://codeforces.com/problemset/problem/460/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|78|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|79|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|80|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
