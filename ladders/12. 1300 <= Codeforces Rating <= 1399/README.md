@@ -54,8 +54,8 @@
 |<ul><li>- [x] Done</li></ul>|47|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|48|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|49|[The Fibonacci Segment](http://codeforces.com/problemset/problem/365/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|50|[Difference Row](http://codeforces.com/problemset/problem/347/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|51|[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|50|[Difference Row](http://codeforces.com/problemset/problem/347/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|51|[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|52|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|53|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|54|[Learning Languages](http://codeforces.com/problemset/problem/277/A)|Codeforces|3|
